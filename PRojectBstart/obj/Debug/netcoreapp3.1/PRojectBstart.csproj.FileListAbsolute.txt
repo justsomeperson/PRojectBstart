@@ -1,0 +1,13 @@
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\bin\Debug\netcoreapp3.1\PRojectBstart.exe
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\bin\Debug\netcoreapp3.1\PRojectBstart.deps.json
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\bin\Debug\netcoreapp3.1\PRojectBstart.runtimeconfig.json
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\bin\Debug\netcoreapp3.1\PRojectBstart.runtimeconfig.dev.json
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\bin\Debug\netcoreapp3.1\PRojectBstart.dll
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\bin\Debug\netcoreapp3.1\PRojectBstart.pdb
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.dll
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.pdb
+C:\Users\Ahmed\Desktop\Project B\Code\PRojectBstart\PRojectBstart\obj\Debug\netcoreapp3.1\PRojectBstart.genruntimeconfig.cache
